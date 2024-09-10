@@ -27,3 +27,6 @@ Para compilar el proyecto, abre una terminal y navega hasta el directorio del pr
 
 ```bash
 gcc -o shell main.c source.c scanner.c parser.c node.c executor.c prompt.c shell_favs.c
+
+```bash
+./shell
